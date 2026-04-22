@@ -42,7 +42,7 @@ Concepts and Exercises of Dictionaries in Python
 
 ### Delete Items
 
-`del fruits['apple']`
+`del fruits['apple|']`
 
 ### Ownership Operator
 
@@ -53,5 +53,5 @@ else:
     print(The grape isnt in the Dictionary)
 ```
 
-### Excersise
-Create a program in Python that uses an Dictionary to save YOUR friend's names (in MAYUS).. and your phone number-. In this case, the Dictionary acts like an Phone Book . The program will ask Names and Phone Numbers and it will be saving them in the Dictionary. AND!! The program must allow to look up or delete a phone number. (Incluide a Menu of Options)
+    ### Excersise
+    Create a program in Python that uses an Dictionary to save YOUR friend's names (in MAYUS).. and your phone number-. In this case, the Dictionary acts like an Phone Book . The program will ask Names and Phone Numbers and it will be saving them in the Dictionary. AND!! The program must allow to look up or delete a phone number. (Incluide a Menu of Options)
